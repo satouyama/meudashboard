@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[124],{2163:function(e,a,t){"use strict";t.r(a);var n=t(0),c=t.n(n);a.default=function(){return c.a.createElement("div",{className:"auth-wrapper offline",style:{background:"#ffffff"}},c.a.createElement("div",{className:"text-center"},c.a.createElement("h1",{className:"mb-4"},"Comming Soon"),c.a.createElement("h5",{className:"text-muted mb-4"},"We will reach you before some Times")))}}}]);
+//# sourceMappingURL=124.019eccfb.chunk.js.map
