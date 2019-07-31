@@ -10,7 +10,7 @@ app.get('/ping', function (req, res) {
  return res.send('pong');
 });
 app.get('/', function (req, res) {
-  res.sendFile(path.join(__dirname, 'public', 'index.html'));
+  res.send("hello world")
 });
 app.listen(()=>{
   console.log("listening on port " + port)
